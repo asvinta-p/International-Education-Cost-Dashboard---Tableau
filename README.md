@@ -14,7 +14,7 @@ Tableau (Calculated Fields, Maps, Multiple Chart Types)
 - Treemap — program-wise tuition cost comparison
 - Geographic map — count of international students by country
 - Lollipop chart — top 10 cities by living cost index
-- KPI cards — country count, average tuition, average rent, average living cost index
+- Cards — country count, average tuition, average rent, average living cost index
 - Created calculated field for Total Cost aggregating all expense components
 
 ## Key Insights
