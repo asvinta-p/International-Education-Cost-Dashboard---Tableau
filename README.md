@@ -6,7 +6,7 @@ across 71 countries, covering tuition, rent, living, visa and
 insurance expenses. The insights enable informed decision-making for prospective students going abroad in planning their budgets.
 
 ## Tools Used
-Tableau public (Calculated Fields, Maps, Multiple Chart Types)
+Tableau (Calculated Fields, Maps, Multiple Chart Types)
 
 ## Dashboard Features
 - Bar charts — total cost by country and average tuition cost by level of education.
@@ -19,10 +19,11 @@ Tableau public (Calculated Fields, Maps, Multiple Chart Types)
 
 ## Key Insights
 - USA is highest cost destination at $39.9L total
-- Bachelor's degrees most expensive at $19.8K average tuition
+- Bachelor's degree is most expensive with an average tuition fee of $19.8K 
 - Positive correlation found between living cost index and tuition fees
 - Switzerland cities dominate top 10 highest living cost rankings
-- Machine Learning was the most expensive program
+- UK was the most preferred destination, followed by the USA and Canada 
+- Machine Learning emerged as the the most expensive program with an average of 48,000 USD
 
 ## Files
 - International_education_costs_dashboard.twb — Tableau workbook
