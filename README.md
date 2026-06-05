@@ -27,3 +27,16 @@ Tableau (Calculated Fields, Maps, Multiple Chart Types)
 
 ## Files
 - International_education_costs_dashboard.twb — Tableau workbook
+
+<img width="939" height="377" alt="Screenshot 2026-06-05 204132" src="https://github.com/user-attachments/assets/af7da107-6b25-41ff-a274-29d34f9703b7" />
+
+
+
+
+
+
+
+
+
+
+
